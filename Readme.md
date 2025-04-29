@@ -67,7 +67,4 @@ The script captures the following logs:
 * **Error Logs**: Errors detected during the build process are saved in a .jsonl file in the /data/students/data directory.
 
 
-## Contact
-
-If you have any questions or feedback, feel free to contact me at [prithivirajn25@gmail.com](prithivirajn25@gmail.com).
 
