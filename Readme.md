@@ -14,7 +14,7 @@ This repository contains an automation script designed to clone a GitHub reposit
 ## Requirements
 
 **The script must be run in the Z/Os environment**
-- **Python 3.9**
+- **Python 3.9(recommended)**
 - **Git**: Ensure that Git is installed and available in your system's PATH.
 
 
